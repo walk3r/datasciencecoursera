@@ -1,2 +1,5 @@
 # datasciencecoursera
-# test by Todd
+### test by Todd
+* first item
+* second item
+* third item
